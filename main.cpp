@@ -14,9 +14,8 @@ using std::string;
 using std::ifstream;
 using std::cout;
 using std::cin;
-using std::stod;
 using std::endl;
-using std::fixed;
+
 
 
 

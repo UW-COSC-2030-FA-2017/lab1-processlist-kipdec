@@ -23,10 +23,10 @@ using namespace std;
 // Variable Declaration
 
 double first;       // The first number in the file
-double second;
-double penultimate;
+double second;      // The second number in the file
+double penultimate; // The penultimate number in the file
 double last;        // The last number in the file
-int c;          // A count of how many numbers have been processed
+int c;              // A count of how many numbers have been processed
 
 // Main program
 
